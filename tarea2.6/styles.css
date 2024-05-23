@@ -1,0 +1,13 @@
+html
+{
+    background-color: rgb(110, 241, 160);
+    text-align: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-family: sans-serif;
+}
+input
+{
+    background-color: rgb(255, 255, 255);
+}
